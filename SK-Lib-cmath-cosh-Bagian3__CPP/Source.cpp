@@ -4,7 +4,7 @@
 #include <cmath>
 #include <conio.h>
 
-/*	Source by Programiz
+/*	Source by GeeksForGeeks
 	Modified For Learn by Rizky Khapidsyah
 	I.D.E : VS2019
 */
